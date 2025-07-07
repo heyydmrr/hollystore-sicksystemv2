@@ -39,7 +39,7 @@ QBCore tabanlı FiveM sunucuları için gelişmiş hastalık sistemi. Oyuncular 
 
 ### 1. **Server.cfg'ye Ekleyin**
 ```cfg
-ensure hb_sicksystem
+ensure hollystore_sicksystem
 ```
 
 **⚠️ Önemli:** Script ismi `hb_sicksystem` olarak kalmalıdır. İsim değiştirilirse script çalışmayacaktır.
